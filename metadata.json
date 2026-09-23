@@ -1,0 +1,6 @@
+{
+  "name": "Adelix Sole",
+  "description": "Premium footwear store and management app for Adelix Sole shoes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
